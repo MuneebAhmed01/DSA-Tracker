@@ -1,17 +1,25 @@
 def stock(arr):
-    largest= 0
-    smallest = arr[0]
-    for i in range(len(arr)):
-        if arr[i]>largest:
-            largest = i
-        if arr[i]<smallest:
-            smallest=i
-    return f"The best day to buy is day {smallest} and the day to sell is day {largest}"
-
+    min_price=float('inf')
+    max_profit=0
+    buyday=-1
+    sellday=-1
     
+    for i,num in enumerate(arr):
+        
+         if num<min_price:
+            min_price = num
+            buyday=i
+         elif num-min_price>max_profit:
+            max_profit=num-min_price
+            sellday=i
+
+           
+    return sellday,buyday,max_profit
+
+
 
         
 
 
-arr=[3,5,6,7,8,1,4]
+arr=[1,5,6,7,8,1,9]
 print(stock(arr))
