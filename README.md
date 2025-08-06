@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
