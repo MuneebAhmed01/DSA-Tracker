@@ -1,16 +1,39 @@
-A collection of LeetCode questions to ace the coding interviews! - Created using [LeetHub 2.0 for Firefox](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-## Linked List
-|  |
-| ------- |
-| [0237-delete-node-in-a-linked-list](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0237-delete-node-in-a-linked-list) |
-<!---LeetCode Topics End-->
+Hey there! 👋
+This repo is where I’m tracking my journey through Data Structures and Algorithms.
+
+Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here — organized by topic like Arrays, Strings, Linked Lists, etc. 
+
+💡 Why this repo?
+
+    To keep a personal log of all the problems I’ve solved/Track Problems
+
+    To review/Practice old problems 
+
+    To show my consistency and problem-solving to future me 
+
+    Because it's fun to look back and see the progress
+
+Language Used:Python
+
+🗂️ Structure
+
+DSA-Tracker/
+│
+├── Array/
+│   ├── TwoSum.py
+│   ├── MaxSubArray.py
+│
+├── String/
+│   ├── ValidPalindrome.py
+│   ├── LongestSubstring.py
+│
+├── LinkedList/
+│   ├── ReverseList.py
+│
+└── README.md
+
+🛠️ Work in Progress
+
+I’m still organizing things — sometimes I upload stuff manually, sometimes with the help of browser extensions
+
+feel free to explore or use these as reference
