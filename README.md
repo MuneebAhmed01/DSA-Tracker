@@ -1,11 +1,11 @@
-Hey there! 👋
-This repo is where I’m tracking my journey through Data Structures and Algorithms.
+Hey there! ð
+This repo is where Iâm tracking my journey through Data Structures and Algorithms.
 
-Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here — organized by topic like Arrays, Strings, Linked Lists, etc. 
+Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here â organized by topic like Arrays, Strings, Linked Lists, etc. 
 
-💡 Why this repo?
+ð¡ Why this repo?
 
-    To keep a personal log of all the problems I’ve solved/Track Problems
+    To keep a personal log of all the problems Iâve solved/Track Problems
 
     To review/Practice old problems 
 
@@ -15,25 +15,41 @@ Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solut
 
 Language Used:Python
 
-🗂️ Structure
+ðï¸ Structure
 
 DSA-Tracker/
-│
-├── Array/
-│   ├── TwoSum.py
-│   ├── MaxSubArray.py
-│
-├── String/
-│   ├── ValidPalindrome.py
-│   ├── LongestSubstring.py
-│
-├── LinkedList/
-│   ├── ReverseList.py
-│
-└── README.md
+â
+âââ Array/
+â   âââ TwoSum.py
+â   âââ MaxSubArray.py
+â
+âââ String/
+â   âââ ValidPalindrome.py
+â   âââ LongestSubstring.py
+â
+âââ LinkedList/
+â   âââ ReverseList.py
+â
+âââ README.md
 
-🛠️ Work in Progress
+ð ï¸ Work in Progress
 
-I’m still organizing things — sometimes I upload stuff manually, sometimes with the help of browser extensions
+Iâm still organizing things â sometimes I upload stuff manually, sometimes with the help of browser extensions
 
 feel free to explore or use these as reference
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
