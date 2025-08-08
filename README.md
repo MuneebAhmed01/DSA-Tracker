@@ -1,11 +1,11 @@
-Hey there! ð
-This repo is where Iâm tracking my journey through Data Structures and Algorithms.
+Hey there! Ã°ÂÂÂ
+This repo is where IÃ¢ÂÂm tracking my journey through Data Structures and Algorithms.
 
-Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here â organized by topic like Arrays, Strings, Linked Lists, etc. 
+Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here Ã¢ÂÂ organized by topic like Arrays, Strings, Linked Lists, etc. 
 
-ð¡ Why this repo?
+Ã°ÂÂÂ¡ Why this repo?
 
-    To keep a personal log of all the problems Iâve solved/Track Problems
+    To keep a personal log of all the problems IÃ¢ÂÂve solved/Track Problems
 
     To review/Practice old problems 
 
@@ -15,26 +15,26 @@ Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solut
 
 Language Used:Python
 
-ðï¸ Structure
+Ã°ÂÂÂÃ¯Â¸Â Structure
 
 DSA-Tracker/
-â
-âââ Array/
-â   âââ TwoSum.py
-â   âââ MaxSubArray.py
-â
-âââ String/
-â   âââ ValidPalindrome.py
-â   âââ LongestSubstring.py
-â
-âââ LinkedList/
-â   âââ ReverseList.py
-â
-âââ README.md
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Array/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TwoSum.py
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ MaxSubArray.py
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ String/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ ValidPalindrome.py
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LongestSubstring.py
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LinkedList/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ ReverseList.py
+Ã¢ÂÂ
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
 
-ð ï¸ Work in Progress
+Ã°ÂÂÂ Ã¯Â¸Â Work in Progress
 
-Iâm still organizing things â sometimes I upload stuff manually, sometimes with the help of browser extensions
+IÃ¢ÂÂm still organizing things Ã¢ÂÂ sometimes I upload stuff manually, sometimes with the help of browser extensions
 
 feel free to explore or use these as reference
 
@@ -52,4 +52,16 @@ feel free to explore or use these as reference
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
