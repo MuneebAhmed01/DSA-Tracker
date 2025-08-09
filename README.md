@@ -1,11 +1,11 @@
-Hey there! Ã°ÂÂÂ
-This repo is where IÃ¢ÂÂm tracking my journey through Data Structures and Algorithms.
+Hey there! ÃÂ°ÃÂÃÂÃÂ
+This repo is where IÃÂ¢ÃÂÃÂm tracking my journey through Data Structures and Algorithms.
 
-Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here Ã¢ÂÂ organized by topic like Arrays, Strings, Linked Lists, etc. 
+Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solution here ÃÂ¢ÃÂÃÂ organized by topic like Arrays, Strings, Linked Lists, etc. 
 
-Ã°ÂÂÂ¡ Why this repo?
+ÃÂ°ÃÂÃÂÃÂ¡ Why this repo?
 
-    To keep a personal log of all the problems IÃ¢ÂÂve solved/Track Problems
+    To keep a personal log of all the problems IÃÂ¢ÃÂÃÂve solved/Track Problems
 
     To review/Practice old problems 
 
@@ -15,26 +15,26 @@ Whenever I solve a problem (mostly on platforms like LeetCode), I drop the solut
 
 Language Used:Python
 
-Ã°ÂÂÂÃ¯Â¸Â Structure
+ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂ Structure
 
 DSA-Tracker/
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ Array/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ TwoSum.py
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ MaxSubArray.py
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ String/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ ValidPalindrome.py
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LongestSubstring.py
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ LinkedList/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ ReverseList.py
-Ã¢ÂÂ
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ README.md
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ Array/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ TwoSum.py
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ MaxSubArray.py
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ String/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ ValidPalindrome.py
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ LongestSubstring.py
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ LinkedList/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ ReverseList.py
+ÃÂ¢ÃÂÃÂ
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ README.md
 
-Ã°ÂÂÂ Ã¯Â¸Â Work in Progress
+ÃÂ°ÃÂÃÂÃÂ ÃÂ¯ÃÂ¸ÃÂ Work in Progress
 
-IÃ¢ÂÂm still organizing things Ã¢ÂÂ sometimes I upload stuff manually, sometimes with the help of browser extensions
+IÃÂ¢ÃÂÃÂm still organizing things ÃÂ¢ÃÂÃÂ sometimes I upload stuff manually, sometimes with the help of browser extensions
 
 feel free to explore or use these as reference
 
@@ -64,4 +64,8 @@ feel free to explore or use these as reference
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/MuneebAhmed01/Python_Dsa_Month1/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
