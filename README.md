@@ -1,48 +1,64 @@
-﻿# 🚀 My DSA Journey
+ï»¿# ð My DSA Journey
 
-Welcome! 👋 This repository is where I document my journey of learning **Data Structures and Algorithms (DSA)**.  
+Welcome! ð This repository is where I document my journey of learning **Data Structures and Algorithms (DSA)**.  
 
 I started this repo to:
-- ✅ Build consistency by solving problems regularly  
-- ✅ Track my progress over time  
-- ✅ Strengthen problem-solving and coding skills  
-- ✅ Keep a structured reference for future use  
+- â Build consistency by solving problems regularly  
+- â Track my progress over time  
+- â Strengthen problem-solving and coding skills  
+- â Keep a structured reference for future use  
 
 ---
 
-## 🗂️ Topics Covered
+## ðï¸ Topics Covered
 Problems are organized by category for clarity:
 
-- 📌 **Arrays**
-- 📌 **Strings**
-- 📌 **Binary Search**
-- 📌 **Linked Lists**
-- 📌 **Stacks & Queues**
-- 📌 **Trees & Graphs**
-- 📌 **Dynamic Programming**
-- 📌 **Miscellaneous Problems**
+- ð **Arrays**
+- ð **Strings**
+- ð **Binary Search**
+- ð **Linked Lists**
+- ð **Stacks & Queues**
+- ð **Trees & Graphs**
+- ð **Dynamic Programming**
+- ð **Miscellaneous Problems**
 
 ---
 
-## 📖 How to Use This Repo
+## ð How to Use This Repo
 - You can browse through problems by topic.  
 - Each solution includes clear, commented code.  
-- Use this repo as a reference if you’re also practicing DSA.  
+- Use this repo as a reference if youâre also practicing DSA.  
 
 ---
 
-## 🎯 Goals
+## ð¯ Goals
 - Practice **daily / weekly** for consistency  
 - Cover all major **DSA patterns**  
 - Improve **problem-solving speed**  
 
 ---
 
-## 🤝 Contributing
+## ð¤ Contributing
 This is mainly for personal tracking, but if you find something useful or want to suggest improvements, feel free to open an issue or PR.  
 
 ---
 
-## 🌟 Acknowledgments
-This repo is part of my learning journey — inspired by various coding platforms and communities.  
-Thanks for checking it out! 🙌
+## ð Acknowledgments
+This repo is part of my learning journey â inspired by various coding platforms and communities.  
+Thanks for checking it out! ð
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0424-longest-repeating-character-replacement) |
+<!---LeetCode Topics End-->
