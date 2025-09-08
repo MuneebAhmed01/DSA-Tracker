@@ -25,9 +25,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
