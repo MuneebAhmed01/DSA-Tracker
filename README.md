@@ -19,12 +19,14 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0883-car-fleet](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
