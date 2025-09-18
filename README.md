@@ -21,6 +21,7 @@
 | [0016-3sum-closest](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0883-car-fleet](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0883-car-fleet) |
 ## Two Pointers
@@ -53,4 +54,8 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0016-3sum-closest) |
 | [0883-car-fleet](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0883-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
