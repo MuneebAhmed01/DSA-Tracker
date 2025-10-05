@@ -24,6 +24,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0883-car-fleet](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
@@ -64,4 +65,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
