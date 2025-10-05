@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0883-car-fleet](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0883-car-fleet) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0016-3sum-closest](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0883-car-fleet) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,9 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuneebAhmed01/DSA-Tracker/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
